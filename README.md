@@ -6,6 +6,9 @@ POS and Inventory System with Admin control on adding products, vendors, brands,
 Built with Visual Studio C# and Sql Server Management Studio.
 
 # Packages
-- MetroModernUI: https://www.nuget.org/packages/MetroModernUI/
-- Microsoft Reporting Services: https://www.nuget.org/packages/Microsoft.ReportingServices.ReportViewerControl.WinForms/
-- Tulpep Notification Popup Window: https://github.com/Tulpep/Notification-Popup-Window
+- MetroModernUI: 
+    https://www.nuget.org/packages/MetroModernUI/
+- Microsoft Reporting Services: 
+    https://www.nuget.org/packages/Microsoft.ReportingServices.ReportViewerControl.WinForms/
+- Tulpep Notification Popup Window: 
+    https://github.com/Tulpep/Notification-Popup-Window
