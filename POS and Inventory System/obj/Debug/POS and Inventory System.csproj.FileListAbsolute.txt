@@ -1,0 +1,115 @@
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\POS and Inventory System.exe.config
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\POS and Inventory System.exe
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\POS and Inventory System.pdb
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS and Inventory System.csprojAssemblyReference.cache
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.Properties.Resources.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS and Inventory System.csproj.GenerateResource.cache
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS and Inventory System.csproj.CoreCompileInputs.cache
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS and Inventory System.exe
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS and Inventory System.pdb
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\MySql.Data.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Google.Protobuf.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Zstandard.Net.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Renci.SshNet.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\System.Buffers.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\MySql.Data.xml
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS and Inventory System.exe.config
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS and Inventory System.csproj.CopyComplete
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmBrandList.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmBrand.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmCategory.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmCategoryList.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmProduct.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmProductList.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\MetroFramework.Design.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\MetroFramework.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\MetroFramework.Fonts.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmStockIn.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmSearchProductStockIn.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmPOS.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmQty.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmLookUp.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmDiscount.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmSettle.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\EnvDTE.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\stdole.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Microsoft.MSXML.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmReceipt.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\RdlCompile.cache
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\RdlCompile.compiled
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmSoldItems.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmReportSold.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmUserAccount.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmSecurity.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmCancelDetails.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmVoid.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmRecords.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmInventoryReport.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmStore.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmVendor.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmVendorList.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmAdjustment.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmChart.resources
+C:\Dev\Pending\POS and Inventory System\POS and Inventory System\obj\Debug\POS_and_Inventory_System.frmDashboard.resources
