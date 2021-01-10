@@ -5,6 +5,21 @@
 POS and Inventory System with Admin control on adding products, vendors, brands, categories, number of stocks, user accounts. Admin can also look for records on sold items, top selling, inventory list, cancelled items, and history of added stocks. The Cashier can login for transactions, adding discount, search for products, print daily sales and settle payment.
 Built with Visual Studio C# and Sql Server Management Studio.
 
+# Features 
+- Create, Manage & Delete Stores
+- Create, Manage & Delete Products
+- Create, Manage & Delete Product Vendors
+- Create, Manage & Delete Product Brands
+- Create, Manage & Delete Product Categories
+- Create, Manage & Delete Number of Stocks
+- Create, Manage & Delete Users (Employee Accounts)
+- Assign Roles to Users (Employee Accounts)
+- Monitor Product Inventories
+- Monitor Sales Reports
+- Monitor Inventory Reports
+- Print Receipts
+- and more features
+
 # Packages
 - MetroModernUI: 
     https://www.nuget.org/packages/MetroModernUI/
