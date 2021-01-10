@@ -1,8 +1,7 @@
 # POS-and-Inventory-System
 
-<img src='https://media.giphy.com/media/BH5V5EGcsaNByn0wjr/giphy.gif'/>
-
 Point Of Sale and Inventory System built with Visual Studio C# and SQL Server Management Studio.
+<img src='https://media.giphy.com/media/BH5V5EGcsaNByn0wjr/giphy.gif'/>
 
 # Features 
 - Create, Manage & Delete Stores
